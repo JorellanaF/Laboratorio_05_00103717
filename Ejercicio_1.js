@@ -15,6 +15,9 @@ var palindromo = function (x) {
     if (cadena == aux) {
         console.log("La paralabra es palindroma")
     }
+    else{
+        console.log("No es palindroma")
+    }
 
 }
 
